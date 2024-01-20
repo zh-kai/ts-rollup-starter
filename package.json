@@ -1,7 +1,7 @@
 {
-  "name": "@aleoswap/v1-core",
+  "name": "name",
   "version": "0.0.1",
-  "description": "Javascript SDK for AleoSwap.",
+  "description": "Javascript SDK.",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c",
